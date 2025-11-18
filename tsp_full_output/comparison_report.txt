@@ -1,0 +1,17 @@
+=== TSP Experiment Report ===
+OR-Tools available: False
+
+Summary statistics:
+          tour_length             runtime          
+                 mean       std      mean       std
+method                                             
+Heuristic    6.532960  0.565166  0.295989  0.076804
+SA          25.354376  1.739385  0.455844  0.117033
+
+Generated files:
+- results.csv
+- summary.csv
+- tour_length_boxplot.png
+- runtime_vs_length.png
+- comparison_plots.png
+- comparison_report.txt
